@@ -1,4 +1,4 @@
-<h1>JavaScript , Node Js, React , Docker / kubernetes , MongoDB </h1>
+<h3>Estudiante Desarrollador de software</h3>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9NV9McAuOWE01LlPMAadeTU0SwHVVrBHjEQ&s" >
 
 <!--
@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+<h2>- 🔭 I’m currently working on ...</h2>
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
